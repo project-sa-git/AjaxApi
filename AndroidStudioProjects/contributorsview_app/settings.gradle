@@ -1,0 +1,2 @@
+rootProject.name='contributors-view_app'
+include ':app'
